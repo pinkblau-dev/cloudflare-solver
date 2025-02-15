@@ -1,6 +1,6 @@
 # cloudflare-solver
 Bypass Cloudflare Turnstile &amp; Challenge
-
+Cloudflare Turnstile &amp; Challenge Solver
 
 
 ## Features
