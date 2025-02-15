@@ -6,6 +6,7 @@ Bypass Cloudflare Turnstile &amp; Challenge
 ## Features
 - **Proxy** Support.
 - **API** Support.
+- **Multithread** Support.
 
 ## Legal
 This tool is for educational purposes only.
