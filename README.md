@@ -20,4 +20,4 @@ Solve Time : 3s
 
 ### Video
 
-https://www.youtube.com/watch?v=f3ANNbQjqm0
+https://www.youtube.com/watch?v=OeFBa25ZdqU
